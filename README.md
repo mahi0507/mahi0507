@@ -28,3 +28,7 @@ MY SKILLS
 🦄⏪ Version control: Git & Github.
 
 📫 How to reach me:0507.mahi@gmail.com
+
+MY STATS:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mahi0507)
