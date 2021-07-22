@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**mahi0507/mahi0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Hi there 👋, 
+
+📢Hey, I'm Mahi Meena. I am passionate about Google Flutter. 
+👨‍💻 Programming Languages : Java, C++.
+💻 Frontend : HTML, CSS & Javascript.
+🦄 Frameworks : Bootstrap .
+💻 Backend : Dart.
+🕹️ Tools and Technologies : MS Word, MS Excel 
+🦄⏪ Version control: Git & Github.
+⚡ Flutter App Developer 
+⚡ I am currently working on a flutter app which is full of knowlegeagble technologies.
+🌱 I’m currently learning Flutter .🎯
+📫 How to reach me:0507.mahi@gmail.com
