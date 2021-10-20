@@ -32,3 +32,4 @@ MY SKILLS
 MY STATS:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mahi0507)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mahi0507&show_icons=true&locale=en&layout=compact)
