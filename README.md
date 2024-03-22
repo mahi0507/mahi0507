@@ -1,33 +1,27 @@
 
-
-
-
-
 Hi there 👋, 
 
-📢Hey, I'm Mahi Meena. I am a self -educated ⚡ Flutter App Developer .
+📢Hey, I'm Mahi Meena. I am a Software Developer .
 
 MY CURRENT WORK
 
-⚡ I am currently working on a flutter app which is full of knowlegeagble technologies.
-
-🌱 I’m currently learning more about Flutter .🎯
+I am currently working as a Software Developer at Amdocs. 
 
 MY SKILLS
 
-👨‍💻 Programming Languages : Java, C++.
+👨‍💻 Programming Languages : Java and Flutter 
 
 💻 Backend : Dart.
 
 💻 Frontend : HTML, CSS & Javascript.
 
-🦄 Frameworks : Bootstrap .
+🦄 Frameworks : Spring , JSP , Servlets 
 
 🕹️ Tools and Technologies : MS Word, MS Excel 
 
 🦄⏪ Version control: Git & Github.
 
-📫 How to reach me:0507.mahi@gmail.com
+📫 How to reach me: meenamahi5799@gmail.com
 
 MY STATS:
 
