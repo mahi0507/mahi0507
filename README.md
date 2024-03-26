@@ -1,10 +1,4 @@
-
-Hi there 👋, 
-
-📢Hey, I'm Mahi Meena. I am a Software Developer .
-
-MY CURRENT WORK
-
+ I'm Mahi Meena. 
 I am currently working as a Software Developer at Amdocs. 
 
 MY SKILLS
