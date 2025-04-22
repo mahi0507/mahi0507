@@ -3,15 +3,15 @@ I am currently working as a Software Developer at Amdocs.
 
 MY SKILLS
 
-👨‍💻 Programming Languages : Java and Flutter 
-
-💻 Backend : Dart.
+💻 Development – Java8, RESTful API’s , Spring Boot Microservices , OOPS, Hibernate , DSA
+  
+🦄 Database – SQL, Postgres
+    
+🦄Cloud Services – AWS (EC2, ECR, Aurora, S3)
 
 💻 Frontend : HTML, CSS & Javascript.
 
-🦄 Frameworks : Spring , JSP , Servlets 
-
-🕹️ Tools and Technologies : MS Word, MS Excel 
+🕹️ Tools and Technologies : Eclipse, MobaXtream , GitBash, MS Word, MS Excel 
 
 🦄⏪ Version control: Git & Github.
 
